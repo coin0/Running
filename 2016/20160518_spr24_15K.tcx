@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TrainingCenterDatabase xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2">
+    <Activities>
+        <Activity Sport="Running">
+            <Id>2016-05-18T14:56:00.000+08:00</Id>
+            <Lap StartTime="2016-05-18T14:56:00.000+08:00">
+                <TotalTimeSeconds>6228</TotalTimeSeconds>
+                <DistanceMeters>15900</DistanceMeters>
+                <Calories>1401</Calories>
+                <Intensity>Active</Intensity>
+                <TriggerMethod>Manual</TriggerMethod>
+            </Lap>
+            <Creator xsi:type="Device_t" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <Name>Fitbit iPhone App</Name>
+                <UnitId>0</UnitId>
+                <ProductID>0</ProductID>
+            </Creator>
+        </Activity>
+    </Activities>
+</TrainingCenterDatabase>
